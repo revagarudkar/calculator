@@ -1,0 +1,35 @@
+.heading{
+    margin-bottom: 10px;
+    text-align: center;
+    width: 210px;
+    color: green;
+    border: grey;
+    border: darkgrey 2px;
+    font-size: larger;
+}
+
+input[type="button"]
+{
+    background-color: yellowgreen;
+    color: black;
+    border: darkgrey 2px;
+    width: 100%;
+    font-size: larger;
+}
+
+input[type="text"]
+{
+    background-color: white;
+    border: darkgrey 2px;
+    width: 100%;
+}
+
+.out{
+    padding-left: 43%;
+}
+
+.inside{
+    height: 210px;
+    background-color: yellowgreen;
+    
+}
